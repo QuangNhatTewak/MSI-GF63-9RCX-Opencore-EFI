@@ -1,4 +1,6 @@
 # MSI-GF63-9RCX-Opencore-EFI
+   Everything works fine.
+   EFI Build base on https://dortania.github.io/OpenCore-Install-Guide/
 
 ## Configuration
 
